@@ -1,7 +1,5 @@
 <template>
-  <exception-base type="500" />
+  <div></div>
 </template>
-
 <script lang="ts" setup></script>
-
 <style scoped></style>
